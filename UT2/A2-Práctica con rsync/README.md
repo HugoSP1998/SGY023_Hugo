@@ -53,6 +53,7 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 #### ***Desarrollo***. <a name="id4"></a>
 rsync1:
+
 ![](img/b1.png)
 
 ![](img/b2.png)
@@ -60,6 +61,7 @@ rsync1:
 ![](img/b3.png)
 
 rsync2:
+
 ![](img/01.png)
 
 ![](img/02.png)
