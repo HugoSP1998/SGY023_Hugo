@@ -52,35 +52,59 @@ En el destino ¿existe el fichero?
 Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
 
 #### ***Desarrollo***. <a name="id4"></a>
-rsync1:
+Vamos a la máquina virtual 1 y comrpobamos que la ip está bien puesta gracias a ponerle la mac.
 
 ![](img/b1.png)
 
+Hacemos ping a la otra máquina virtual.
+
 ![](img/b2.png)
+
+Le cambiamos el hostname a rsync1 e instalamos el servicio rsync
 
 ![](img/b3.png)
 
-rsync2:
+En la máquina virtual 2 le ponemos la mac proporcionada por el profedor.
 
 ![](img/01.png)
 
+Le cambiamos el hostname.
+
 ![](img/02.png)
+
+Comrpobamos ping a la otra maáquina virtual.
 
 ![](img/03.png)
 
+Instalamos rsync
+
 ![](img/04.png)
+
+Instalamos ssh.
 
 ![](img/05.png)
 
+Creamos el siguiente fichero y miramos el estado de rsync.
+
 ![](img/06.png)
+
+Rsync1 crea la carpeta datos. 
 
 ![](img/b4.png)
 
+Pone el siguiente comando para generar 100 archivos.
+
 ![](img/b5.png)
+
+Rsync a la otra máquina virtual.
 
 ![](img/b6.png)
 
+En rsync2 miramos que se a creado esa carpeta tambien.
+
 ![](img/07.png)
+
+Editamos un archivo.
 
 ![](img/08.png)
 
