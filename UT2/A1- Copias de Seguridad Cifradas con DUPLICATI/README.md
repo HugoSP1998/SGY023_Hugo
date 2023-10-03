@@ -27,11 +27,17 @@ DUPLICATI es un servicio opensource y multiplataforma  que nos permite realizar 
 Utilizando esta aplicación, realizar las siguientes tareas:
 
 1.Instalar la aplicación en Ubuntu
+
 2.Crear en un servicio en la nube de nuestra elección la carpeta "DupBackUp"
+
 3.Configurar en duplicati la realización de la copia de seguridad hace la carpeta que hemos creado en la nube, con las siguientes características:
+
 -La copia debe ser incremental.
+
 -La copia debe estar cifrada.
+
 4.Planificar un backup completo del directorio de datos (Documentos) del usuario que estamos utilizando. Programar dicho backup para realizarlo todos los días a las 23:30
+
 5.Realizar el  procedimiento de comprobación de la integridad de las copias realizadas y de recuperación de la la información.
 
 #### ***Material empleado***. <a name="id3"></a>
