@@ -70,10 +70,7 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 ![](img/06.png)
 
-> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
-
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
 
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+Hemos aprendido como instalar rsync y como configurarla para hacerla funcionar.
