@@ -124,13 +124,17 @@ Borrramos el archivo 100.
 
 ![](img/b9.png)
 
-Y vemos que se borra.
+Y le mandamos la informacion a la otra máquina virtual para que tambien borre los archivos que ya no estan en nuestra máquina virtual.
 
 ![](img/b10.png)
+
+Y vemos que se borra.
 
 ![](img/10.png)
 
 ![](img/11.png)
+
+Sincronizamos de manera recursiva el directorio /etc/systemd de la primera máquina a ~/systemd en la segunda máquina
 
 ![](img/b12.png)
 
