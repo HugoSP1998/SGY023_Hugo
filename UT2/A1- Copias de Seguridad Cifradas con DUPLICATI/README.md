@@ -46,11 +46,17 @@ Utilizando esta aplicación, realizar las siguientes tareas:
 
 #### ***Desarrollo***. <a name="id4"></a>
 
+Instalamos Duplicati por terminal.
+
 ![](img/01.png)
 
 ![](img/02.png)
 
+Miramos que está instalado y lo abrimos
+
 ![](img/03.png)
+
+Creamos una copia de seguridad con la configuración indicada en el ejercicio.
 
 ![](img/04.png)
 
@@ -58,11 +64,19 @@ Utilizando esta aplicación, realizar las siguientes tareas:
 
 ![](img/06.png)
 
+Miramos que está y le damos a ejecutar ahora.
+
 ![](img/07.png)
+
+Vemos que en drive se creo la carpeta con los archivos.
 
 ![](img/08.png)
 
+Borramos.
+
 ![](img/09.png)
+
+Y Restauramos con las indicaciones adecuadas.
 
 ![](img/10.png)
 
@@ -70,8 +84,7 @@ Utilizando esta aplicación, realizar las siguientes tareas:
 
 ![](img/12.png)
 
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
 
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+Duplicati es una buena herramienta para hacer copias de seguridad ya sea dentro del ordenador o en la nube.
