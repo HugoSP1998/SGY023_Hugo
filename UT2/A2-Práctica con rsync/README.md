@@ -52,7 +52,7 @@ En el destino ¿existe el fichero?
 Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
 
 #### ***Desarrollo***. <a name="id4"></a>
-Vamos a la máquina virtual 1 y comrpobamos que la ip está bien puesta gracias a ponerle la mac.
+Vamos a la máquina virtual 1 y comprobamos que la ip está bien puesta gracias a ponerle la mac.
 
 ![](img/b1.png)
 
@@ -72,7 +72,7 @@ Le cambiamos el hostname.
 
 ![](img/02.png)
 
-Comrpobamos ping a la otra maáquina virtual.
+Comrpobamos ping a la otra máquina virtual.
 
 ![](img/03.png)
 
@@ -108,13 +108,23 @@ Editamos un archivo.
 
 ![](img/08.png)
 
+Hacemos rsync a la primera máquina virtual.
+
 ![](img/09.png)
+
+Y vemos que se han creado los archivos.
 
 ![](img/b7.png)
 
+Con el archivo editado.
+
 ![](img/b8.png)
 
+Borrramos el archivo 100.
+
 ![](img/b9.png)
+
+Y vemos que se borra.
 
 ![](img/b10.png)
 
