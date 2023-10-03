@@ -1,11 +1,11 @@
 <center>
 
-# TÍTULO DE LA PRÁCTICA
+# Práctica con rsync
 
 
 </center>
 
-***Nombre:***
+***Hugo Suárez Pérez:***
 ***Curso:*** 2º de Ciclo Superior de Administración de Sistemas Informáticos en Red.
 
 ### ÍNDICE
@@ -31,7 +31,7 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
+![](img/01.png)
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
