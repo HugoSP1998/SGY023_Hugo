@@ -52,12 +52,14 @@ En el destino ¿existe el fichero?
 Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
 
 #### ***Desarrollo***. <a name="id4"></a>
+rsync1:
 ![](img/b1.png)
 
 ![](img/b2.png)
 
 ![](img/b3.png)
 
+rsync2:
 ![](img/01.png)
 
 ![](img/02.png)
@@ -70,6 +72,31 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 ![](img/06.png)
 
+![](img/b4.png)
+
+![](img/b5.png)
+
+![](img/b6.png)
+
+![](img/07.png)
+
+![](img/08.png)
+
+![](img/09.png)
+
+![](img/b7.png)
+
+![](img/b8.png)
+
+![](img/b9.png)
+
+![](img/b10.png)
+
+![](img/10.png)
+
+![](img/11.png)
+
+![](img/b12.png)
 
 #### ***Conclusiones***. <a name="id5"></a>
 
