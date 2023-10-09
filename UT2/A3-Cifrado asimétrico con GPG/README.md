@@ -1,6 +1,6 @@
 <center>
 
-# TÍTULO DE LA PRÁCTICA
+# Cifrado asimétrico con GPG
 
 
 </center>
@@ -24,7 +24,14 @@ Aquí explicamos brevemente la parte teórica que tiene que ver con la práctica
 
 #### ***Objetivos***. <a name="id2"></a>
 
-Aquí explicamos los objetivos que se pretenden alcanzar al realizar la práctica.
+Utilizando la distribución Linux Ubuntu y la herramienta GPG, encripta un archivo y envíaselo a un compañero encriptado. Consigue que él lo pueda desencriptar y describe detalladamente el proceso. Para ello usa la guía en PD Cifrado asimétrico con GPG.
+
+-Crear las claves publica-privada.
+-Exportar la clave pública y compartirla con el compañero.
+-Encripta un archivo usando la clave pública de tu compañero.
+-Enviar el archivo encriptado a tu compañero.
+-Prueba a desencriptar el archivo que te ha enviado tu compañero.
+-Prueba a subir las claves públicas tuya y de tu compañero, a un servidor de claves públicas, y establecer una comunicación cifrada entre ambos haciendo uso de las claves almacenadas en el mencionado servidor.
 
 #### ***Material empleado***. <a name="id3"></a>
 
