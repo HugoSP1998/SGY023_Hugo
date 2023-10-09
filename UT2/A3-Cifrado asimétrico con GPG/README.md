@@ -24,7 +24,7 @@ Aquí explicamos brevemente la parte teórica que tiene que ver con la práctica
 
 #### ***Objetivos***. <a name="id2"></a>
 
-Utilizando la distribución Linux Ubuntu y la herramienta GPG, encripta un archivo y envíaselo a un compañero encriptado. Consigue que él lo pueda desencriptar y describe detalladamente el proceso. Para ello usa la guía en PD Cifrado asimétrico con GPG.
+Utilizando la distribución Linux Ubuntu y la herramienta GPG, encripta un archivo y envíaselo a un compañero encriptado. Consigue que él lo pueda desencriptar y describe detalladamente el proceso.
 
 -Crear las claves publica-privada.
 -Exportar la clave pública y compartirla con el compañero.
